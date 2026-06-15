@@ -1,0 +1,6 @@
+# Smera Dental Clinic — Netlify configuration
+[build]
+  publish = "."
+
+[functions]
+  directory = "netlify/functions"
